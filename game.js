@@ -64,7 +64,7 @@ class Circle {
   }
 }
 
-// Crear un array para almacenar los círculos
+// Crear un array para almacenar los círculo
 let circles = [];
 
 // Función para generar un nuevo círculo
